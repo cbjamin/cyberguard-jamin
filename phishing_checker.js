@@ -1,0 +1,1 @@
+// JS code for phishing link checker
